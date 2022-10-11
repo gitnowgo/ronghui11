@@ -1,0 +1,38 @@
+﻿{
+    "name": "railway",
+    "description": "x",
+    "keywords": ["x"],
+    "env": {
+        "AA": {
+            "description": "初阶用户",
+            "value": "如出现错误"
+        },
+        "AUUID": {
+            "description": "UUID的网站: https://www.uuidgenerator.net",
+            "value": "072031d8-d945-4cb3-8683-6a40e4c33d7e"
+        },
+        "CADDYIndexPage": {
+            "description": "自定义参考",
+            "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
+        },
+        "CONFIGCADDY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/gitnowgo/ronghui11/master/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "请勿修改",
+            "value": "https://raw.githubusercontent.com/gitnowgo/ronghui11/master/etc/wry.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SS加密",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "自定义网络地址读取存储文件列表",
+            "value": "https://raw.githubusercontent.com/gitnowgo/ronghui11/master/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/gitnowgo/ronghui11",
+    "repository": "https://github.com/gitnowgo/ronghui11",
+    "stack": "container"
+}
